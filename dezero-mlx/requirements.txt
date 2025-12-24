@@ -1,0 +1,10 @@
+# Core dependencies
+numpy>=1.20.0
+pillow>=8.0.0
+
+# Optional: Apple Silicon GPU acceleration
+# mlx>=0.0.5
+
+# Development dependencies
+# pytest>=7.0.0
+# matplotlib>=3.5.0
